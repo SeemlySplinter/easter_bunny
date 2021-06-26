@@ -46,6 +46,7 @@
         "menu.selectionBackground": "#4C2882",
         "tab.activeBackground": "#4C2882",
         "pickerGroup.foreground": "#F77FBE",
+        "list.inactiveSelectionBackground": "#4C288260", 
         "scrollbarSlider.activeBackground": "#F77FBE60",
         "selection.background": "#FF6FFF90", 
         "activityBarBadge.background": "#CC33CC",
