@@ -71,7 +71,6 @@
     }, 
     "tokenColors": [
         { 
-            "name": "fred", 
             "scope": [
                 "",
                 "punctuation.separator",
