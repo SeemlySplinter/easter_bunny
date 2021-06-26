@@ -1,0 +1,21 @@
+{
+    "name": "easter-bunny",
+    "displayName": "Easter Bunny",
+    "description": "A custom, pink/purple-pallete theme inspired by Winter is Coming.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Easter Bunny",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Easter Bunny-color-theme.json"
+            }
+        ]
+    }
+}
