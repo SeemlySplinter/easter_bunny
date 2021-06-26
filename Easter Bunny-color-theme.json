@@ -88,7 +88,9 @@
         },
         {
             "scope": [
-                "constant.numeric", 
+                "constant.numeric",
+                "constant.language",
+                "constant.character.escape",  
                 "punctuation.definition.string.begin",
                 "punctuation.definition.string.end"
             ],
@@ -104,15 +106,6 @@
                 "foreground": "#FFFF9F"
             }
         },
-        {
-            "scope": [
-                "constant.language",
-                "constant.character.escape"
-            ],
-            "settings":{
-                "foreground": "#FC74FD"
-            }
-        }, 
         {
             "scope": [
                 "keyword.operator",
