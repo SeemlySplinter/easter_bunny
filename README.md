@@ -1,18 +1,27 @@
-# README
+# Easter Bunny
 
-![Screenshot_01](https://github.com/SeemlySplinter/easter_bunny/blob/main/easter-bunny-screenshot-01.png?raw=true)
+This extension for Visual Studio Code adds the theme titled "Easter Bunny"--a dark theme designed for use with python. 
 
-![Screenshot_02](https://github.com/SeemlySplinter/easter_bunny/blob/main/easter-bunny-screenshot-02.png?raw=true)
+## Samples:
 
-Designed for use with Python.
- 
-Heavy inspiration from the following themes:
-* Winter is Coming, 
-* Dracula, 
-* One-Dark Pro,  
-* Night Owl. 
+**Python**
+![Screenshot_01](https://github.com/SeemlySplinter/easter_bunny/blob/main/images/easter-bunny-screenshot-01.png?raw=true)
 
-    * MAKE SURE TO MOVE THE THEME FILE (JSON) INTO 
-        A NEW FOLDER CALLED "themes"!!!
-    * MAKE SURE TO MOVE THE ICON FILE (PNG) INTO 
-        A NEW FOLDER CALLED "images"!!!
+**JSON**
+![Screenshot_02](https://github.com/SeemlySplinter/easter_bunny/blob/main/images/easter-bunny-screenshot-02.png?raw=true)
+
+## Credits:
+
+This theme is authored by SeemlySplinter
+
+I had heavy inspiration from the following themes:
+* Winter is Coming (John Papa), 
+* Dracula (Derek S.), 
+* One-Dark Pro (Binaryify et al.),  
+* Night Owl (Sarah Drasner). 
+
+--
+
+Thank you for your interest in my theme, 
+
+Enjoy!

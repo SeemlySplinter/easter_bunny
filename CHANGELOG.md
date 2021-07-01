@@ -1,9 +1,7 @@
-# Change Log
+# Easter Bunny theme ChangeLog
 
-All notable changes to the "easter-bunny" extension will be documented in this file.
+<a name="1.0.0"></a>
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.0.0
 
-## [Unreleased]
-
-- Initial release
+- Created Easter Bunny theme. 
