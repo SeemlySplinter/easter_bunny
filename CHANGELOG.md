@@ -1,7 +1,7 @@
 # Easter Bunny theme ChangeLog
 
-<a name="1.0.0"></a>
+<a name="0.0.1"></a>
 
-## 1.0.0
+## 0.0.1
 
 - Created Easter Bunny theme. 

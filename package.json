@@ -1,27 +1,32 @@
 {
-    "name": "easter-bunny",
-    "displayName": "Easter Bunny",
-    "description": "A custom, pink/purple-pallet theme inspired by Winter is Coming (John Papa).",
-    "version": "1.0.0",
-    "publisher": "SeemlySplinter",
-    "icon": "images/easter-bunny-icon.png", 
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/SeemlySplinter/easter_bunny.git"
-    },
-    "engines": {
-        "vscode": "^1.57.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Easter Bunny",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Easter Bunny-color-theme.json"
-            }
-        ]
-    }
+	"name": "easter-bunny",
+	"displayName": "Easter Bunny",
+	"description": "A custom, pink/purple-pallet theme inspired by Winter is Coming (John Papa).",
+	"version": "0.0.1",
+	"publisher": "SeemlySplinter",
+	"icon": "images/easter-bunny-icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/SeemlySplinter/easter_bunny.git"
+	},
+	"engines": {
+		"vscode": "^1.57.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Easter Bunny",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Easter Bunny-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "131aa15c-b95a-4934-8436-0f4e30e2e9c9",
+		"publisherDisplayName": "SeemlySplinter",
+		"publisherId": "7c868a59-7758-4227-818f-7804cf67fef9"
+	}
 }
